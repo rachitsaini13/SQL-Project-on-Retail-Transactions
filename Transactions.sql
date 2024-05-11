@@ -1,6 +1,4 @@
 --- Title :-        Retail Transactions
---- Created by :-   Hardi Jain & Vinit Sangoi
---- Date :-         20-09-2022
 --- Tool used:-     PostgreSQL
 
 /*
